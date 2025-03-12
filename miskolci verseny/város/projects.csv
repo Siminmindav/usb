@@ -1,0 +1,4 @@
+id,name,cost,start_date,end_date,affected_buildings
+1,School Energy Renovation,10000000,2023-01-31,2026-06-01,{2,3}
+2,Library Expansion,5000000,2025-05-01,2027-05-01,{3}
+3,Hospital Renovation,12000000,2024-06-15,2026-01-01,{4}

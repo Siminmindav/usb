@@ -1,0 +1,264 @@
+Month 1, Budget: 1000000, Satisfaction: 75
+Building Residential Building: 3
+Building School: 4
+Building Library: 2
+Building Hospital: 5
+Building Shopping Center: 4
+Service Public Transportation: 50000.0
+Service Police Department: 30000.0
+Service Fire Department: 25000.0
+Service Health Service: 40000.0
+Service Education Service: 60000.0
+Month 2, Budget: 1000000, Satisfaction: 75
+Building Residential Building: 3
+Building School: 4
+Building Library: 2
+Building Hospital: 5
+Building Shopping Center: 4
+Service Public Transportation: 50000.0
+Service Police Department: 30000.0
+Service Fire Department: 25000.0
+Service Health Service: 40000.0
+Service Education Service: 60000.0
+Month 3, Budget: 1000000, Satisfaction: 75
+Building Residential Building: 3
+Building School: 4
+Building Library: 2
+Building Hospital: 5
+Building Shopping Center: 4
+Service Public Transportation: 50000.0
+Service Police Department: 30000.0
+Service Fire Department: 25000.0
+Service Health Service: 40000.0
+Service Education Service: 60000.0
+Month 4, Budget: 1000000, Satisfaction: 75
+Building Residential Building: 3
+Building School: 4
+Building Library: 2
+Building Hospital: 5
+Building Shopping Center: 4
+Service Public Transportation: 50000.0
+Service Police Department: 30000.0
+Service Fire Department: 25000.0
+Service Health Service: 40000.0
+Service Education Service: 60000.0
+Month 5, Budget: 1000000, Satisfaction: 75
+Building Residential Building: 3
+Building School: 4
+Building Library: 2
+Building Hospital: 5
+Building Shopping Center: 4
+Service Public Transportation: 50000.0
+Service Police Department: 30000.0
+Service Fire Department: 25000.0
+Service Health Service: 40000.0
+Service Education Service: 60000.0
+Month 6, Budget: 1000000, Satisfaction: 75
+Building Residential Building: 3
+Building School: 4
+Building Library: 2
+Building Hospital: 5
+Building Shopping Center: 4
+Service Public Transportation: 50000.0
+Service Police Department: 30000.0
+Service Fire Department: 25000.0
+Service Health Service: 40000.0
+Service Education Service: 60000.0
+Month 7, Budget: 1000000, Satisfaction: 75
+Building Residential Building: 3
+Building School: 4
+Building Library: 2
+Building Hospital: 5
+Building Shopping Center: 4
+Service Public Transportation: 50000.0
+Service Police Department: 30000.0
+Service Fire Department: 25000.0
+Service Health Service: 40000.0
+Service Education Service: 60000.0
+Month 8, Budget: 1000000, Satisfaction: 75
+Building Residential Building: 3
+Building School: 4
+Building Library: 2
+Building Hospital: 5
+Building Shopping Center: 4
+Service Public Transportation: 50000.0
+Service Police Department: 30000.0
+Service Fire Department: 25000.0
+Service Health Service: 40000.0
+Service Education Service: 60000.0
+Month 9, Budget: 1000000, Satisfaction: 75
+Building Residential Building: 3
+Building School: 4
+Building Library: 2
+Building Hospital: 5
+Building Shopping Center: 4
+Service Public Transportation: 50000.0
+Service Police Department: 30000.0
+Service Fire Department: 25000.0
+Service Health Service: 40000.0
+Service Education Service: 60000.0
+Month 10, Budget: 1000000, Satisfaction: 75
+Building Residential Building: 3
+Building School: 4
+Building Library: 2
+Building Hospital: 5
+Building Shopping Center: 4
+Service Public Transportation: 50000.0
+Service Police Department: 30000.0
+Service Fire Department: 25000.0
+Service Health Service: 40000.0
+Service Education Service: 60000.0
+Month 11, Budget: 1000000, Satisfaction: 75
+Building Residential Building: 3
+Building School: 4
+Building Library: 2
+Building Hospital: 5
+Building Shopping Center: 4
+Service Public Transportation: 50000.0
+Service Police Department: 30000.0
+Service Fire Department: 25000.0
+Service Health Service: 40000.0
+Service Education Service: 60000.0
+Month 12, Budget: 1000000, Satisfaction: 75
+Building Residential Building: 3
+Building School: 4
+Building Library: 2
+Building Hospital: 5
+Building Shopping Center: 4
+Service Public Transportation: 50000.0
+Service Police Department: 30000.0
+Service Fire Department: 25000.0
+Service Health Service: 40000.0
+Service Education Service: 60000.0
+Month 1, Budget: 1000000, Satisfaction: 75
+Building Residential Building: 3
+Building School: 4
+Building Library: 2
+Building Hospital: 5
+Building Shopping Center: 4
+Service Public Transportation: 50000.0
+Service Police Department: 30000.0
+Service Fire Department: 25000.0
+Service Health Service: 40000.0
+Service Education Service: 60000.0
+Month 2, Budget: 1000000, Satisfaction: 75
+Building Residential Building: 3
+Building School: 4
+Building Library: 2
+Building Hospital: 5
+Building Shopping Center: 4
+Service Public Transportation: 50000.0
+Service Police Department: 30000.0
+Service Fire Department: 25000.0
+Service Health Service: 40000.0
+Service Education Service: 60000.0
+Month 3, Budget: 1000000, Satisfaction: 75
+Building Residential Building: 3
+Building School: 4
+Building Library: 2
+Building Hospital: 5
+Building Shopping Center: 4
+Service Public Transportation: 50000.0
+Service Police Department: 30000.0
+Service Fire Department: 25000.0
+Service Health Service: 40000.0
+Service Education Service: 60000.0
+Month 4, Budget: 1000000, Satisfaction: 75
+Building Residential Building: 3
+Building School: 4
+Building Library: 2
+Building Hospital: 5
+Building Shopping Center: 4
+Service Public Transportation: 50000.0
+Service Police Department: 30000.0
+Service Fire Department: 25000.0
+Service Health Service: 40000.0
+Service Education Service: 60000.0
+Month 5, Budget: 1000000, Satisfaction: 75
+Building Residential Building: 3
+Building School: 4
+Building Library: 2
+Building Hospital: 5
+Building Shopping Center: 4
+Service Public Transportation: 50000.0
+Service Police Department: 30000.0
+Service Fire Department: 25000.0
+Service Health Service: 40000.0
+Service Education Service: 60000.0
+Month 6, Budget: 1000000, Satisfaction: 75
+Building Residential Building: 3
+Building School: 4
+Building Library: 2
+Building Hospital: 5
+Building Shopping Center: 4
+Service Public Transportation: 50000.0
+Service Police Department: 30000.0
+Service Fire Department: 25000.0
+Service Health Service: 40000.0
+Service Education Service: 60000.0
+Month 7, Budget: 1000000, Satisfaction: 75
+Building Residential Building: 3
+Building School: 4
+Building Library: 2
+Building Hospital: 5
+Building Shopping Center: 4
+Service Public Transportation: 50000.0
+Service Police Department: 30000.0
+Service Fire Department: 25000.0
+Service Health Service: 40000.0
+Service Education Service: 60000.0
+Month 8, Budget: 1000000, Satisfaction: 75
+Building Residential Building: 3
+Building School: 4
+Building Library: 2
+Building Hospital: 5
+Building Shopping Center: 4
+Service Public Transportation: 50000.0
+Service Police Department: 30000.0
+Service Fire Department: 25000.0
+Service Health Service: 40000.0
+Service Education Service: 60000.0
+Month 9, Budget: 1000000, Satisfaction: 75
+Building Residential Building: 3
+Building School: 4
+Building Library: 2
+Building Hospital: 5
+Building Shopping Center: 4
+Service Public Transportation: 50000.0
+Service Police Department: 30000.0
+Service Fire Department: 25000.0
+Service Health Service: 40000.0
+Service Education Service: 60000.0
+Month 10, Budget: 1000000, Satisfaction: 75
+Building Residential Building: 3
+Building School: 4
+Building Library: 2
+Building Hospital: 5
+Building Shopping Center: 4
+Service Public Transportation: 50000.0
+Service Police Department: 30000.0
+Service Fire Department: 25000.0
+Service Health Service: 40000.0
+Service Education Service: 60000.0
+Month 11, Budget: 1000000, Satisfaction: 75
+Building Residential Building: 3
+Building School: 4
+Building Library: 2
+Building Hospital: 5
+Building Shopping Center: 4
+Service Public Transportation: 50000.0
+Service Police Department: 30000.0
+Service Fire Department: 25000.0
+Service Health Service: 40000.0
+Service Education Service: 60000.0
+Month 12, Budget: 1000000, Satisfaction: 75
+Building Residential Building: 3
+Building School: 4
+Building Library: 2
+Building Hospital: 5
+Building Shopping Center: 4
+Service Public Transportation: 50000.0
+Service Police Department: 30000.0
+Service Fire Department: 25000.0
+Service Health Service: 40000.0
+Service Education Service: 60000.0
