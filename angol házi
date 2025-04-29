@@ -40,3 +40,46 @@ Poland – Wieliczka Salt Mine: A surreal underground world with chapels carved 
 Romania – Bran Castle: Often associated with Dracula’s legend, perched on a rocky hill.
 Russia (European part) – Saint Basil’s Cathedral (Moscow): A colorful, onion-domed icon of Russia.
 Ukraine – Lviv Old Town: A charming mix of Polish, Austrian, and Ukrainian heritage.
+
+ez más:
+
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Látogatásszámláló</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 100px;
+        }
+        .counter {
+            font-size: 2em;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Üdv újra!</h1>
+    <p class="counter"></p>
+
+    <script>
+        // Ellenőrizzük, hogy van-e már eltárolt számláló érték
+        let visitCount = localStorage.getItem('visitCount');
+
+        if (visitCount) {
+            visitCount = parseInt(visitCount) + 1;
+        } else {
+            visitCount = 1;
+        }
+
+        // Elmentjük az új értéket
+        localStorage.setItem('visitCount', visitCount);
+
+        // Megjelenítjük a számlálót
+        document.querySelector('.counter').textContent = `Eddig ${visitCount} alkalommal látogattad meg ezt az oldalt.`;
+    </script>
+</body>
+</html>
+
