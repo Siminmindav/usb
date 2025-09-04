@@ -43,6 +43,13 @@ def send_message():
     client.send(message.encode("utf-8"))
     msg_entry.delete(0, tk.END)
 
+"""
+cat-es telóhoz:
+    w40 h33 
+    w30 
+    yp30
+"""
+
 # Tkinter UI
 root = tk.Tk()
 root.title("Chat Client")
