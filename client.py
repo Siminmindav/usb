@@ -4,7 +4,7 @@ import tkinter as tk
 from tkinter import simpledialog, scrolledtext, messagebox
 
 # Client setup
-HOST = "confidental"  # same as server
+HOST = "titokhehehehehehe"  # same as server
 PORT = 0      # same as server
 
 nickname = None
@@ -48,6 +48,8 @@ cat-es telóhoz:
     w40 h33 
     w30 
     yp30
+samsung galaxy telóhoz:
+
 """
 
 # Tkinter UI
