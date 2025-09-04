@@ -49,7 +49,9 @@ cat-es telóhoz:
     w30 
     yp30
 samsung galaxy telóhoz:
-
+    w80 h40 xp10 yp10
+    w65 xp10 yp10
+    xp10 xp10
 """
 
 # Tkinter UI
