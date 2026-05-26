@@ -2,6 +2,8 @@
 using namespace std;
 using ll = long long;
 
+//If I were you, I wouldn't run it...
+
 int main() {
     char answer;
 
