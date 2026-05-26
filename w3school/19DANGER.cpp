@@ -17,10 +17,10 @@ int main() {
             cout << "Well then. I CAST MEMORY LEAK!\n";
             while (1){
                 cout << "HAHAHAHAHA! I WILL LEAK YOUR MEMORY FOREVER!\n";
-                ll size = 1024*1024*1024/8; //1GB memóriafoglalás, ami nem lesz felszabadítva, így memóriaszivárgást okoz
+                ll size = 1024*1024*1024/8; 
                 ll* leak = new ll[size]; 
                 for (ll i = 0; i < size; ++i) {
-                    leak[i] = i; //a memória helyek feltöltése értékekkel, hogy ne legyen üres memóriafoglalás
+                    leak[i] = i; 
                 }
             }
             break;
