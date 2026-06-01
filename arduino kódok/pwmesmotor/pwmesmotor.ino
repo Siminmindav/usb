@@ -1,5 +1,5 @@
 /*
-Ha feltekered maxra akkor a lendület miatt, ha vissza is tekered a motor nem lassúl
+Ha feltekered maxra akkor a lendület miatt, ha vissza is tekered a motor nem lassul
 */
 
 #include <Servo.h>
