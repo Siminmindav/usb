@@ -23,3 +23,18 @@ m         mute
 end       change caption
 enter     go foward in text
 backspace go backward in text
+
+music:
+_________________________________________________
+Music: TheFatRat - Time Lapse
+Watch the official music video: https://tinyurl.com/tfrtimelapse
+Listen to Time Lapse: https://thefatrat.ffm.to/timelapse
+Follow TheFatRat: https://ffm.bio/thefatrat
+_________________________________________________
+
+Music: TheFatRat - Unity
+Watch the official music video: https://tinyurl.com/unitytfr
+Listen to Unity: https://thefatrat.ffm.to/unity
+Follow TheFatRat: https://ffm.bio/thefatrat
+_________________________________________________
+and some other music...
