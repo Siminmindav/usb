@@ -445,7 +445,7 @@ while running:
 
         frames += 1
         screen.blit(images[f"background{frames//6%5+1}"],(0,0))
-        handz.update(frames//abs(60-score//3)%7+1)
+        handz.update(frames//(abs(60-score//3)+0.1)%7+1)
         
         for s in stars:
             s.update()
@@ -519,7 +519,7 @@ while running:
         drawtext(800, 200, "And an intern that you need to kill, funny named pilot and much more...")
         drawtext(800, 220, "This won't game is not finished, it doesen't need to be.")
         drawtext(800, 240, "It's good enough...")
-        drawtext(800, 20, f"{frames//6%5+1} {frames//abs(60-score//3)%7+1} {frames}")
+        drawtext(800, 20, f"{frames//6%5+1} {frames//(abs(60-score//3)+0.1)%7+1} {frames}")
         pygame.display.flip() 
 
     except:
