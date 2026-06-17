@@ -1,3 +1,7 @@
+to run execute or use IDE:
+
+python3.13 run.py
+
 must have libs:
 pygame
 os
